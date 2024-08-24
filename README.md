@@ -1,1 +1,4 @@
-This python module uses Tkinter
+
+
+            👋👋👋 This python module uses Tkinter for its GUI
+                                    ✌️✌️✌️
